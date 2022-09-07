@@ -125,7 +125,6 @@ margin-right: 100px;
 
 input[type=checkbox] {
     margin-right: 10px;
-    appearance: none;
     background-color: #F7F7F7;
     margin: 0;
     margin-right: 10px;
@@ -134,7 +133,6 @@ input[type=checkbox] {
     width: 30px;
     height: 30px;
     border-radius: 4px;
-    transform: translateY(-0.075em);
     box-shadow: 0px 0px 10px 0px #4242421f inset;
     position: flex;
 }
